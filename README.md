@@ -1,2 +1,2 @@
 # TrafficViewer
-Before the project is launched, please replace the GoogleMap API key in the Strings file in values folder.
+Before the project is launched, please replace the "replace_me" value in the strings file in values folder with your GoogleMap API.
