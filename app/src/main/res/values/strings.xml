@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Traffic Viewer</string>
-    <string name="API_KEY">"AIzaSyBrTmHQnY1zL_nDMocpO4n0hCM77hQI0bs"</string>
+    <string name="API_KEY">"replace_me"</string>
     <string name="image_load_error">please check the network connection and try again.</string>
 </resources>
